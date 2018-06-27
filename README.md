@@ -8,8 +8,6 @@ This app requires unique keys for each API and those are stored in the .env file
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
 npm install twitter
 npm install --save node-spotify-api
