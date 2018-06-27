@@ -1,7 +1,7 @@
 # Liri Node App
 
 Liri is a node app that is built to retrieve data from Twitter, Spotify, and OMBD. If called on, Liri will use inquirer to prompt the user to get tweets from any specified Twitter username, retrieve requested song information from Spotify, and movie data from OMBD. 
-
+<iframe src='https://gfycat.com/ifr/DisfiguredOrderlyHousefly' frameborder='0' scrolling='no' width='1888' height='1552' allowfullscreen></iframe>
 ## Getting Started
 
 This app requires unique keys for each API and those are stored in the .env file. This will need to be created and stored in .gitignore for privacy. 
