@@ -15,7 +15,6 @@ npm install twitter
 npm install --save node-spotify-api
 npm install dotenv
 npm install inquirer
-
 ```
 
 
