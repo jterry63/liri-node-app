@@ -1,21 +1,12 @@
-# Liri Node App
+# Bamazon (Node/MySQL)
 
-Liri is a node app that is built to retrieve data from Twitter, Spotify, and OMBD. If called on, Liri will use inquirer to prompt the user to get tweets from any specified Twitter username, retrieve requested song information from Spotify, and movie data from OMBD.
+Bamazon is a node application that is an amazon-like store. The customer can pick an item, quantity, and it will return the total price. The manager can see all items available, view low quantity, add to quantity, and add new items. 
 
-Click to view preview of Liri:
+ Below is a preview of Bamazon:
 
-[![View Liri Preview](https://img.youtube.com/vi/1gCZLG-NgYc/0.jpg)](https://www.youtube.com/watch?v=1gCZLG-NgYc)
-## Getting Started
+### Screenshots
 
-This app requires unique keys for each API and those are stored in the .env file. This will need to be created and stored in .gitignore for privacy. 
+![alt text]( "Description goes here")
 
-### Prerequisites
-
-```
-npm install twitter
-npm install --save node-spotify-api
-npm install dotenv
-npm install inquirer
-```
 
 
